@@ -32,7 +32,7 @@
 ## My Projects:
 #### [CloudStorage](https://github.com/Sam1549/NetologyDiplom)
 #### [TransferMoney](https://github.com/Sam1549/MoneyTransfer)
-#### [OnlineChat](https://github.com/https://github.com/Sam1549/Chat)
+#### [OnlineChat](https://github.com/Sam1549/Chat)
 
 
 ---
