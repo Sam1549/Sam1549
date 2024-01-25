@@ -37,7 +37,7 @@
 
 ---
 ##  ⚡  My Certifications :
-* [Diploma of professional retraining](https://github.com/Sam1549/Certificates/blob/main/diplom.pdf)
+* [Diploma of professional retraining](https://github.com/Sam1549/Certificates/blob/main/IMG_20240111_173931.jpg)
 * [Java Basics](https://github.com/Sam1549/Certificates/blob/main/Java%20basic.pdf)
 * [Java Core](https://github.com/Sam1549/Certificates/blob/main/Java%20Core.pdf)
 * [OOP](https://github.com/Sam1549/Certificates/blob/main/OOP.pdf)
