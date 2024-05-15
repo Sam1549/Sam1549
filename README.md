@@ -37,6 +37,7 @@
 
 ---
 ##  ⚡  My Certifications :
+* [Certificate of Android(Kotlin) Developer top 5](https://github.com/Sam1549/Certificates/blob/main/SM003.jpeg)
 * [Diploma of professional retraining](https://github.com/Sam1549/Certificates/blob/main/IMG_20240111_173931.jpg)
 * [Java Basics](https://github.com/Sam1549/Certificates/blob/main/Java%20basic.pdf)
 * [Java Core](https://github.com/Sam1549/Certificates/blob/main/Java%20Core.pdf)
